@@ -1,13 +1,13 @@
 [
   {
-    "name": "CircuitAssessment",
+    "name": "harshcircuit",
     "protocol": "groth16",
-    "circuit": "CircuitAssessment/circuit.circom",
-    "input": "CircuitAssessment/input.json",
-    "wasm": "CircuitAssessment/out/circuit.wasm",
-    "zkey": "CircuitAssessment/out/CircuitAssessment.zkey",
-    "vkey": "CircuitAssessment/out/CircuitAssessment.vkey",
-    "r1cs": "CircuitAssessment/out/CircuitAssessment.r1cs",
+    "circuit": "harshcircuit/circuit.circom",
+    "input": "harshcircuit/input.json",
+    "wasm": "harshcircuit/out/circuit.wasm",
+    "zkey": "harshcircuit/out/harshcircuit.zkey",
+    "vkey": "harshcircuit/out/harshcircuit.vkey",
+    "r1cs": "harshcircuit/out/harshcircuit.r1cs",
     "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
   }
 ]
