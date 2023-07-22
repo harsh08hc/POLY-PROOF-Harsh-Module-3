@@ -1,6 +1,6 @@
 pragma circom 2.0.0;
 
-template CircuitAssessment () {  
+template harshcircuit() {  
 
 // signal inputs
 
@@ -60,4 +60,4 @@ template NOR() {
     out <== x*y + 1 - x - y;
 }
 
-component main = CircuitAssessment();
+component main = harshcircuit();
