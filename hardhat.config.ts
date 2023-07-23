@@ -24,9 +24,9 @@ const config: HardhatUserConfig = {
     ]
   },
   networks:{
-  goerli: {
-    url: `https://eth-goerli.public.blastapi.io`,
-    accounts: [process.env.GOERLIPRIVATEKEY]
+  mumbai: {
+    url: `https://rpc-mumbai.maticvigil.com`,
+    accounts: [process.env.MUMBAIPRIVATEKEY]
    }  
   },
   circom: {
