@@ -118,7 +118,8 @@ This script does 4 things
 4. Calls `verifyProof()` on the verifier contract with calldata
 
 ## Author
-Harsh CHaudhary
+Harsh Chaudhary 
+https://github.com/harsh08hc
 
 ## License
 
