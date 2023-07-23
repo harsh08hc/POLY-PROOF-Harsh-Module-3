@@ -2,9 +2,6 @@
 This repository contains the imlementation of the given circuit diagram using circom and also demonstrates 
 how to deploy it on Polygon Mumbai Testnet.
 
-## Circuit Diagram
-![Polygon Assessment](https://github.com/harsh08hc/Polygon-circuit-deployment/assets/96652764/48223407-aa9d-4b6b-af39-63f1865cf877)
-
 ## Contents
 - `circuit.circom`: This file contains the implementation of the logical gate circuit using the Circom language. It defines the inputs, outputs, and the constraints that enforce the desired behavior of the logic gate.
 - `compile.js`: This script is used to compile the circuit and generate the necessary intermediaries for proving the correctness of the circuit.
