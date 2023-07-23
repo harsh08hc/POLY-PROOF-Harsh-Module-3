@@ -36,6 +36,7 @@ To get started with the project, follow these steps:
 
 ### Executing program
 
+```
 pragma circom 2.0.0;
 
 template harshcircuit() {  
